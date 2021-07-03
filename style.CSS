@@ -1,0 +1,180 @@
+body
+{
+    margin: 5% 5% 5% 5%;
+    text-align: center;
+    padding: 0px;
+    
+ 
+}
+h1
+{
+    font-size: 70px;
+    margin:auto;
+  
+}
+h2
+{
+    font-size: 50px;
+    margin: auto;
+}
+.Green-highligth
+{
+    color: green;
+}
+.half-with
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.half-with img 
+{
+    width:100%;
+}
+.Link-button
+{
+    text-decoration: none;
+    background-image:linear-gradient(green, red);
+    padding: 20px 30px;
+    border-radius: 15px;
+    color:white;
+    font-weight: 900;
+    font-size: 35px;
+}
+section
+{
+    height: 700px;
+}
+p
+{
+    font-size: 25px ;
+   
+}
+.Orange-highlight
+{
+    color: orangered;
+}
+.image-work
+{
+    width: 24%;
+    float: left;
+    margin-left: 4%;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    height: 80%;
+}
+   
+    .image-work img
+    {
+        width: 100%;
+        
+    }
+    .image-work h3
+    {
+        font-size: 45px;
+        color: blue;
+    }
+    .image-work p
+    {
+        font-size: 30;
+        color: brown;
+    }
+    .image-work img:hover
+    {
+        transform: scale(1.15);
+    }
+    .half-with img:hover
+    {
+        transform: scale(1.15);
+    }
+    .half-with h1:hover
+    {
+        transform: scale(1.15);
+    }
+
+    .Clint
+    {
+        margin-top: 20%;
+    }
+    .Clint h3{
+        font-size: 40px;
+    }
+    
+    .have
+    { 
+        margin-top: 10% ;
+    }
+    .link-btn3 h1
+    {
+        color: white;
+        font-size: 60px;
+        float: left;    
+        padding-top: 70px;
+        padding-left: 70px;
+    }
+    .link-btn3
+    {
+        background-image: url(Backgorund/ending.png) ;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 200px;
+        
+    }
+    
+    .Lets-Chat
+    {
+        float: right;
+        padding: 90px 100px;
+    }
+
+    .STAY
+    {
+        margin-top: 20%;
+    }
+    
+    h3
+    {
+        font-size: 35px;
+    }
+    
+    .link
+    {
+        margin-top: 3%;
+        font-size: 30px;
+    }
+    .copy
+    {
+        color:midnightblue;
+    }
+    
+footer{
+    margin-top: 20%;
+    text-align: center;
+    font-size: 20px;
+}
+.input
+{
+    margin-top: 20%;
+    text-align: left;
+}
+input:focus
+{
+color: green;
+font-size: 30px;
+}
+li
+{
+    margin-top: 2%;
+    text-align: left;
+    font-size: 20px;
+    color: rgb(134, 4, 106);
+}
+li:nth-child(2n+1)
+{
+    background-color: greenyellow;
+}
+
+a:visited{
+    color:black;
+}
